@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FERSAY - Personaliza tu Calzado</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="images/logo.png" alt="FERSAY Logo" class="logo">
+        <h1>FERSAY Deluxe</h1>
+        <p>Personaliza tu calzado a tu estilo</p>
+    </header>
+    
+    <section id="personalizador">
+        <h2>Elige tu modelo y colores</h2>
+        <button onclick="personalizar()">¡Comenzar!</button>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>

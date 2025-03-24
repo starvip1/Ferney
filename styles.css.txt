@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #fbeff2; /* Color de fondo inspirado en la imagen */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #d53086; /* Color rosa fuerte de la imagen */
+    color: white;
+    padding: 20px;
+}
+
+.logo {
+    max-width: 150px;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: #d53086; /* Rosa fuerte */
+}
+
+button {
+    background-color: #d53086; /* Color del botón rosa */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #a12265; /* Un tono más oscuro al pasar el mouse */
+}
